@@ -50,5 +50,6 @@ This logic is implemented with DAX using the customer and order fields in the da
 - sample_data.csv
 
 ## Dashboard preview
+<img width="1345" height="760" alt="image" src="https://github.com/user-attachments/assets/24336ffe-623e-4fc4-bc53-164f4d891ced" />
 
 
