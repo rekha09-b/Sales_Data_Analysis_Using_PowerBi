@@ -49,7 +49,11 @@ This logic is implemented with DAX using the customer and order fields in the da
 - Sales_Overview_Dashboard.png
 - sample_data.csv
 
-## Dashboard preview
+## Dashboard preview 1
 <img width="1345" height="760" alt="image" src="https://github.com/user-attachments/assets/24336ffe-623e-4fc4-bc53-164f4d891ced" />
+
+## Dashboard Preview 2
+<img width="1348" height="757" alt="image" src="https://github.com/user-attachments/assets/de480404-2461-4abf-8ea0-6b827686d220" />
+
 
 
