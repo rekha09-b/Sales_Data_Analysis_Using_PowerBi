@@ -44,6 +44,7 @@ This logic is implemented with DAX using the customer and order fields in the da
 - Interactive report pages, KPI cards, charts, and slicers
 
   ## Repository structure
-- Sales Data csv
-- Sales Data Analysis Dashboard Images
+- Profitability and Customer_Analysis_Dashboard.png
 - README.md
+- Sales_Overview_Dashboard.png
+- sample_data.csv
