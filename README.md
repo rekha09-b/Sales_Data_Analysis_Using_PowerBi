@@ -48,3 +48,7 @@ This logic is implemented with DAX using the customer and order fields in the da
 - README.md
 - Sales_Overview_Dashboard.png
 - sample_data.csv
+
+## Dashboard preview
+
+
